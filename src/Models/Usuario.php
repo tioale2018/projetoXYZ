@@ -3,6 +3,6 @@ namespace App\Models;
 
 class Usuario {
     public function dizerOla() {
-        return "Olá do namespace App\\Models!";
+        return "Olá, bom dia do namespace App\\Models!";
     }
 }
